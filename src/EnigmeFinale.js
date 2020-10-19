@@ -48,7 +48,7 @@ const EnigmeFinale = (props) => {
   }
 
   function handleSubmit2(e) {
-    const reponses = reponse2
+    const reponses = reponse2.toLowerCase()
     const solutions = "rauba capeu"
     if (reponses === solutions) {
       setVisible2(true);
