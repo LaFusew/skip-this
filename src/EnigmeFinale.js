@@ -87,7 +87,7 @@ const EnigmeFinale = (props) => {
         </Button>
 
           <Typography  variant='h5' style={{padding: '16px 0px',  fontWeight:'bold', color:"white", visibility: visible2 ? 'visible' : 'hidden'}}>
-            Bravo !!! Allez maintenant prendre une photo de là où tous les niçois se sont déjà assis pour finir cet Urban Safari !
+            Bravo !!! Allez maintenant prendre une photo de là où tous les niçois se sont déjà assis et ramenez la aux organisateurs pour finir cet Urban Safari !
           </Typography>
         
         </div>
