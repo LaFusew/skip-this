@@ -24,6 +24,8 @@ const EnigmeFinale = (props) => {
       case '2':
         setReponse1(e.target.value);
         break;
+      default: 
+        break;
     }
   }
 
